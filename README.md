@@ -7,12 +7,12 @@
 
 More about me:
 
-Vision
+Vision: 
 Transform the field of Data Science with Innovative break through’s in various aspects of Business Intelligence, 
 Data Analytics, Data Engineering, Deep Learning, Artificial Intelligence.
 
 
-Mission
+Mission: 
 Passionately and effectively contribute as a Data Scientist to the growth of the organization to which I belong, 
 taking it to newer heights of success, excellence, and prosperity. 
 During this effort, learning and gaining invaluable experience to hone my professional and personal skills, 
