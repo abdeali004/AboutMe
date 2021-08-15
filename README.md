@@ -13,11 +13,8 @@ Data Analytics, Data Engineering, Deep Learning, Artificial Intelligence.
 
 
 Mission: 
-Passionately and effectively contribute as a Data Scientist to the growth of the organization to which I belong, 
-taking it to newer heights of success, excellence, and prosperity. 
-During this effort, learning and gaining invaluable experience to hone my professional and personal skills, 
-thus making this relationship mutually beneficial.
+Effectively contribute as a programmer in the growth of an Organization taking it to newer heights of success. During this effort, Learn and gain invaluable experience to hone my professional and personal skills, thus making this relationship mutually beneficial.
 
 
 
-- Waiting for a great opportunity to work with highly recognized product based organisation and with great mentor who motivates me and teach me.
+- Waiting for a great opportunity to work with highly recognized organisation and with a great mentor who motivates me and teach me.
