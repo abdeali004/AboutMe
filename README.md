@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdeali004 - Abdeali Stationwala
 - 👀 I’m interested in developing new projects on great ideas.
-- 🌱 I’m currently learning data science because i love to work on data.
+- 🌱 I’m currently working on django and its frameworks.
 - 📫 You can reach me on 
     $LinkedIn => https://www.linkedin.com/in/abdeali004/
     $email => abdeali52.station@gmail.com
